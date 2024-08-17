@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723923015 source:c:\users\gabriel\documents\estudos\1 periodo\estrutura de dados\aula2\atividade 6\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
